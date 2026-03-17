@@ -5,7 +5,13 @@
 Live Demo: 🌐 https://editghost.xyz
 
 ![Gemini Watermark Remover Before After](https://via.placeholder.com/800x400?text=Before+→+After+Gemini+Watermark+Removal)  
-*(Replace with your actual before-after screenshot – 建议放 2-3 张 Gemini 水印 + 物体擦除的对比图)*
+<img width="1408" height="768" alt="2-before" src="https://github.com/user-attachments/assets/68bcf7e9-e6d1-4d26-9916-4873bbf2960a" />
+<img width="1059" height="726" alt="2-editor-shot" src="https://github.com/user-attachments/assets/b8e7494c-45ef-4cc7-97e2-0355fec98325" />
+
+<img width="1408" height="768" alt="4-before" src="https://github.com/user-attachments/assets/6386ecdf-8a03-4c7c-8c78-704772b7f7fb" />
+<img width="1408" height="768" alt="4-after" src="https://github.com/user-attachments/assets/6e9e91c8-d0d7-434e-b72c-03e9de550b26" />
+
+
 
 ## ✨ Features
 
